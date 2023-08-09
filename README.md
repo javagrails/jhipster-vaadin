@@ -1,2 +1,2 @@
 # Only Java
-Backend with Jhipster and Frontend with Vaddin (Only JAVA)
+Backend and Frontend with Vaddin (Only Java)
